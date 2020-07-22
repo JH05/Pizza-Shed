@@ -1,0 +1,64 @@
+\\Storage-sc2\student_home\1102001 - 1103000\1102517\Computing\Programming\Pizza Shed\Pizza Shed\bin\Debug\Pizza Shed.exe
+\\Storage-sc2\student_home\1102001 - 1103000\1102517\Computing\Programming\Pizza Shed\Pizza Shed\bin\Debug\Pizza Shed.pdb
+\\Storage-sc2\student_home\1102001 - 1103000\1102517\Computing\Programming\Pizza Shed\Pizza Shed\bin\Debug\Pizza Shed.xml
+\\Storage-sc2\student_home\1102001 - 1103000\1102517\Computing\Programming\Pizza Shed\Pizza Shed\obj\Debug\ResolveAssemblyReference.cache
+\\Storage-sc2\student_home\1102001 - 1103000\1102517\Computing\Programming\Pizza Shed\Pizza Shed\obj\Debug\Pizza_Shed.Form1.resources
+\\Storage-sc2\student_home\1102001 - 1103000\1102517\Computing\Programming\Pizza Shed\Pizza Shed\obj\Debug\Pizza_Shed.Resources.resources
+\\Storage-sc2\student_home\1102001 - 1103000\1102517\Computing\Programming\Pizza Shed\Pizza Shed\obj\Debug\Pizza Shed.exe
+\\Storage-sc2\student_home\1102001 - 1103000\1102517\Computing\Programming\Pizza Shed\Pizza Shed\obj\Debug\Pizza Shed.xml
+\\Storage-sc2\student_home\1102001 - 1103000\1102517\Computing\Programming\Pizza Shed\Pizza Shed\obj\Debug\Pizza Shed.pdb
+\\Storage-sc2\student_home\1102001 - 1103000\1102517\Computing\Programming\Pizza Shed\Pizza Shed\obj\Debug\GenerateResource-ResGen.read.4.tlog
+\\Storage-sc2\student_home\1102001 - 1103000\1102517\Computing\Programming\Pizza Shed\Pizza Shed\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\Storage-sc2\student_home\1102001 - 1103000\1102517\Computing\Programming\Pizza Shed\Pizza Shed\obj\Debug\GenerateResource-ResGen.write.1.tlog
+\\Storage-sc2\student_home\1102001 - 1103000\1102517\Computing\Programming\Pizza Shed\Pizza Shed\obj\Debug\Pizza_Shed.Form2.resources
+I:\Pizza Shed\Pizza Shed\obj\Debug\Pizza Shed.exe
+I:\Pizza Shed\Pizza Shed\obj\Debug\Pizza Shed.xml
+I:\Pizza Shed\Pizza Shed\obj\Debug\Pizza Shed.pdb
+I:\Pizza Shed\Pizza Shed\bin\Debug\Pizza Shed.exe
+I:\Pizza Shed\Pizza Shed\bin\Debug\Pizza Shed.pdb
+I:\Pizza Shed\Pizza Shed\bin\Debug\Pizza Shed.xml
+I:\Pizza Shed\Pizza Shed\obj\Debug\ResolveAssemblyReference.cache
+I:\Pizza Shed\Pizza Shed\obj\Debug\Pizza_Shed.Form1.resources
+I:\Pizza Shed\Pizza Shed\obj\Debug\Pizza_Shed.Form2.resources
+I:\Pizza Shed\Pizza Shed\obj\Debug\Pizza_Shed.Resources.resources
+I:\Pizza Shed\Pizza Shed\obj\Debug\GenerateResource-ResGen.read.4.tlog
+I:\Pizza Shed\Pizza Shed\obj\Debug\GenerateResource-ResGen.read.1.tlog
+I:\Pizza Shed\Pizza Shed\obj\Debug\ResGen.read.1.tlog
+I:\Pizza Shed\Pizza Shed\obj\Debug\GenerateResource-ResGen.write.1.tlog
+I:\Pizza Shed\Pizza Shed\obj\Debug\ResGen.write.1.tlog
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\obj\Debug\Pizza Shed.exe
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\obj\Debug\Pizza Shed.xml
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\obj\Debug\Pizza Shed.pdb
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\bin\Debug\Pizza Shed.exe
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\bin\Debug\Pizza Shed.pdb
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\bin\Debug\Pizza Shed.xml
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\obj\Debug\ResolveAssemblyReference.cache
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\obj\Debug\Pizza_Shed.Form1.resources
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\obj\Debug\Pizza_Shed.Form2.resources
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\obj\Debug\Pizza_Shed.Resources.resources
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\obj\Debug\GenerateResource-ResGen.read.4.tlog
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\obj\Debug\ResGen.read.1.tlog
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Pizza Shed (Finish Total Price)\Pizza Shed\obj\Debug\ResGen.write.1.tlog
+E:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\Pizza Shed.exe
+E:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\Pizza Shed.xml
+E:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\Pizza Shed.pdb
+E:\Pizza Shed  (Completed)\Pizza Shed\bin\Debug\Pizza Shed.exe
+E:\Pizza Shed  (Completed)\Pizza Shed\bin\Debug\Pizza Shed.pdb
+E:\Pizza Shed  (Completed)\Pizza Shed\bin\Debug\Pizza Shed.xml
+E:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\ResolveAssemblyReference.cache
+E:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\Pizza_Shed.Form1.resources
+E:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\Pizza_Shed.Form2.resources
+E:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\Pizza_Shed.Resources.resources
+E:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\ResGen.read.1.tlog
+E:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\ResGen.write.1.tlog
+I:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\Pizza Shed.exe
+I:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\Pizza Shed.xml
+I:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\Pizza Shed.pdb
+G:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\Pizza Shed.exe
+G:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\Pizza Shed.xml
+G:\Pizza Shed  (Completed)\Pizza Shed\obj\Debug\Pizza Shed.pdb
